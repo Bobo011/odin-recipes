@@ -1,0 +1,24 @@
+#C1{
+    color: white;
+    background-color: black;
+    
+    padding:5px;
+}
+#C2{
+    background-color: yellow;
+}
+
+#C1 #C2{
+    
+    
+    
+    font-size: 50px;
+    font-family: Times New Roman,  Helvetica, sans-serif;
+}
+
+#box{
+    padding: 10px;
+    width: 300px;
+    display: flex;
+    margin: auto;
+}

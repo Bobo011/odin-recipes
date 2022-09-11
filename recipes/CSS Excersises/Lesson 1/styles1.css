@@ -1,0 +1,13 @@
+*{
+    color:white;
+}
+.red p{
+    
+    background-color: red;
+    font-size: 18px;
+}
+
+p{
+    background-color: green;
+    font-size: 18px;
+}
