@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* This changes the header logo text */
+header p{
+    font-size: 18px;
+    font-weight: bolder;
+    color:#e5e7eb;
+     
+}
+/* This changes the header links text */
+header a{
+font-size: 18px;
+color: #e5e7eb;
+text-decoration: none;
+
+}
+#first_half{
+    background-color: #1f2937;
+    padding: 20px 100px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    }
+
+#header_links{
+    display: flex;
+    justify-self: flex-end;
+}
+
+#this_website p:first-of-type{
+    
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+
+
+}
+
+#this_website{
+    padding-top: 100px;
+}
+#this_website p{
+    font-size: 18px;
+    color: #e5e7eb;
+}
